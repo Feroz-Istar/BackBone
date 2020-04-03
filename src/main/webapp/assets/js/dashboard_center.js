@@ -18,6 +18,8 @@ $(document).ready(function() {
 			return data;
 		}
 	}
+	//<------------------PIPELINE
+	
 	PipelineObj = [ {
 		id : 127,
 		name : 'Pipeline 01',
@@ -70,7 +72,10 @@ $(document).ready(function() {
 	var PipelineCarouselView = Backbone.View.extend({
 		events : {
 			"click #pipeline-right" : "pipelineRight",
-			"click #pipeline-left" : "pipelineLeft"
+			"click #pipeline-left" : "pipelineLeft",
+		},
+		clickonics:function(){
+			console.log("yoyoyo")
 		},
 		pipelineLeft : function() {
 			pipelienCount--;
@@ -137,7 +142,7 @@ $(document).ready(function() {
 		},
 		render : function() {
 
-			var template = _.template(App.get(contextPath + 'templates/dashboard/pipelineCard.html'));
+			var template = _.template(App.get(contextPath + 'templates/dashboard/pipeline_card.html'));
 			var html = template(this.model.toJSON());
 			this.$el.append(html);
 			this.initializePipelineCarousel();
@@ -179,7 +184,7 @@ $(document).ready(function() {
 	var TeamCarouselModel= Backbone.Model.extend()
 	var TeamCarouselView= Backbone.View.extend({
 		render:function(){
-			var template = _.template(App.get(contextPath + 'templates/dashboard/teamCard.html'));
+			var template = _.template(App.get(contextPath + 'templates/dashboard/team_card.html'));
 			var html = template(this.model.toJSON());
 			this.$el.append(html);
 			return this;
@@ -197,10 +202,12 @@ $(document).ready(function() {
 
 	teamCarouselView.render()
 	//---------------------------------------------------------------------->
+	
+	//---------------------TOP BOTTOM AGENTS CARD
 	var BottomCarouselModel= Backbone.Model.extend()
 	var BottomCarouselView= Backbone.View.extend({
 		render:function(){
-			var template = _.template(App.get(contextPath + 'templates/dashboard/centerBottomCard.html'));
+			var template = _.template(App.get(contextPath + 'templates/dashboard/center_bottom_card.html'));
 			var html = template(this.model.toJSON());
 			this.$el.append(html);
 			return this;
@@ -219,5 +226,5 @@ $(document).ready(function() {
 	})
 
 	bottomCarouselView.render()
-	
+	//-------------------------------------------->
 })

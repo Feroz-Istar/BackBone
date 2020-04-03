@@ -197,6 +197,7 @@
 	<script src="<%=baseURL%>assets/js/bootstrap-datepicker.min.js"></script>
 	<script src="<%=baseURL%>assets/js/dashboard.js"></script>
 	<script src="<%=baseURL%>assets/js/dashboard_center.js"></script>
+	<script src="<%=baseURL%>assets/js/dashboard_right.js"></script>
 
 	<script src="<%=baseURL%>assets/js/underscore-min.js"></script>
 	<script src="<%=baseURL%>assets/js/summernote-bs4.js"></script>

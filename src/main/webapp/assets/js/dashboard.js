@@ -1,7 +1,8 @@
+	var contextPath = $('body').data('baseurl')
+
 $(document).ready(function(){
 	var DashboardLeft = Backbone.Model.extend();
 	console.log('ready')
-	var contextPath = $('body').data('baseurl')
 	window.App = {
 
 		    get : function(url) {

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Tag_-_Doc" width="40" height="40" data-name="Tag - Doc" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-1{fill:#37ac6c}.cls-2{fill:#fff}.cls-3{fill:none}
+        </style>
+    </defs>
+    <circle id="Ellipse_71" cx="20" cy="20" r="20" class="cls-1" data-name="Ellipse 71"/>
+    <g id="doc" transform="translate(8 8)">
+        <path id="Path_49" d="M974.909 1573.818a.818.818 0 0 0-.818-.818h-12.273a.818.818 0 0 0-.818.818v16.364a.818.818 0 0 0 .818.818h12.273a.818.818 0 0 0 .818-.818zm-1.636 15.546h-10.637v-14.727h10.636zm-8.586-2.966a.716.716 0 0 1 .716-.716h4.869a.716.716 0 1 1 0 1.432H965.4a.716.716 0 0 1-.713-.714zm0-2.864a.716.716 0 0 1 .716-.716h4.869a.716.716 0 1 1 0 1.432H965.4a.716.716 0 0 1-.713-.716zm6.336-5.932a.716.716 0 0 0-.716-.716H965.4a.716.716 0 0 0-.716.716v2.864a.716.716 0 0 0 .716.716h4.909a.716.716 0 0 0 .716-.716zm-4.909.716h3.477v1.432h-3.477z" class="cls-2" data-name="Path 49" transform="translate(-956 -1570)"/>
+        <path id="Rectangle_936" d="M0 0h24v24H0z" class="cls-3" data-name="Rectangle 936"/>
+    </g>
+</svg>

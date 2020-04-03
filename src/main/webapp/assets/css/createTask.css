@@ -1,0 +1,55 @@
+
+.call-icon{
+	height: 52px;
+	width: 52px;
+	border-radius: 50% !important;
+}
+.green-gradient{
+	background-image: linear-gradient(#79ac7b, #0b8910);
+}
+
+.red-gradient{
+	background-image: linear-gradient(#f46c6c, #e01616);
+}
+
+.calltabsize{
+	height: 625px;
+}
+.dashboardcalltabsize{
+	min-height: 800px;
+	
+}
+.shadow-left{
+	box-shadow:  0 11px 13px 0 #ccc;
+}
+.custom-call-dateselect{
+	height: 28px;
+    font-size:14px;
+    border: none;
+    color: #999999;
+}
+.custom-call-calendar{
+	height: 30px;
+	margin-right: .5rem!important;
+	border: 1px solid #cccccc;
+    border-radius: 0;	
+}
+.iconsize{
+	height: 16px;
+	width: 16px;
+}
+.h-500{
+	overflow-y:auto; 
+	height: 500px;
+}
+.h-800{
+	overflow-y:auto; 
+	height: 800px;
+}
+.h-400{
+	overflow-y:auto; 
+	height: 400px;
+}
+.bottom-dashed-separation{
+	border-bottom: 1px dashed #cccccc;
+}

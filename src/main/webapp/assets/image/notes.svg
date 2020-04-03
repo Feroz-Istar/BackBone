@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#767df7}.cls-4{clip-path:url(#clip-path-2)}.cls-5{fill:#fff;stroke:rgba(0,0,0,0)}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h40v40H0z" class="cls-1"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path d="M0 0h24v24H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Component_1" class="cls-2" data-name="Component 1">
+        <circle id="Ellipse_71" cx="20" cy="20" r="20" class="cls-3" data-name="Ellipse 71"/>
+        <g id="notes" class="cls-4" transform="translate(8 8)">
+            <path id="Union_15" d="M-2195.219 1387.767a.781.781 0 0 1-.781-.781v-14.768a.844.844 0 0 1 .781-.852h1.63a.781.781 0 0 1 .781.781.781.781 0 0 1-.781.781h-.849v13.277h13.276v-13.277h-.849a.781.781 0 0 1-.781-.781.781.781 0 0 1 .781-.781h1.63a.844.844 0 0 1 .781.852v14.768a.781.781 0 0 1-.781.781zm3.952-3.027a.781.781 0 0 1-.781-.781.781.781 0 0 1 .781-.781h4.251a.781.781 0 0 1 .781.781.781.781 0 0 1-.781.781zm0-3.416a.781.781 0 0 1-.781-.781.781.781 0 0 1 .781-.781h6.935a.781.781 0 0 1 .781.781.781.781 0 0 1-.781.781zm0-3.514a.781.781 0 0 1-.781-.781.781.781 0 0 1 .781-.781h6.935a.781.781 0 0 1 .781.781.781.781 0 0 1-.781.781zm5.615-4.336v-2.5a.976.976 0 0 1 .976-.976.976.976 0 0 1 .976.976v2.5a.976.976 0 0 1-.976.976.977.977 0 0 1-.976-.977zm-6.248 0v-2.5a.976.976 0 0 1 .976-.976.976.976 0 0 1 .976.976v2.5a.977.977 0 0 1-.976.976.976.976 0 0 1-.976-.977zm3.457-.545a.781.781 0 0 1-.781-.781.781.781 0 0 1 .781-.781h1.288a.781.781 0 0 1 .781.781.781.781 0 0 1-.781.781z" class="cls-5" data-name="Union 15" transform="translate(2200 -1367)"/>
+            <path id="Rectangle_936" d="M0 0h24v24H0z" class="cls-1" data-name="Rectangle 936"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#ffffff}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h24v24H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Component" class="cls-2">
+        <path id="Rectangle_936" d="M0 0h24v24H0z" class="cls-1" data-name="Rectangle 936"/>
+        <path id="Path_61" d="M1632.7 1799.729l-.6 11.273a.78.78 0 0 1-.779.739h-9.884a.78.78 0 0 1-.779-.739l-.595-11.273a.78.78 0 0 1 1.557-.082l.556 10.534h8.4l.556-10.534a.78.78 0 0 1 1.558.082zm2.067-2.61a.78.78 0 0 1-.78.78h-15.207a.78.78 0 0 1 0-1.56h4.289v-1.755a.561.561 0 0 1 .628-.585h5.372a.561.561 0 0 1 .628.585v1.755h4.289a.78.78 0 0 1 .78.78zm-10.332-.78h3.9v-.975h-3.9zm.327 12.672h.016a.714.714 0 0 0 .666-.739l-.2-8.428a.689.689 0 0 0-.7-.676.678.678 0 0 0-.666.693l.2 8.446a.716.716 0 0 0 .682.704zm3.215 0a.7.7 0 0 0 .682-.685l.2-8.417a.686.686 0 0 0-.666-.7.679.679 0 0 0-.7.664l-.2 8.425a.692.692 0 0 0 .666.716z" class="cls-3" data-name="Path 61" transform="translate(-1614 -1791)"/>
+    </g>
+</svg>

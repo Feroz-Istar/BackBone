@@ -1,0 +1,47 @@
+.login_button{
+background:#ed4d67;
+height:40px;
+color:white;
+}
+
+.saleskenlogo{
+	height:54px; width:184px; 
+	
+}
+
+.border_top{
+	border-top:1px solid #eeeeee;
+}
+
+.shadow_right{
+	    box-shadow: 57px -2px 29px -41px #cccccc;	
+}
+
+.tick_icon{
+	 width: 35px; height: 35px;
+	
+}
+.input_wh:focus{
+	color:#95989a !important;
+}
+.input_wh{
+	 width: 287.5px; height: 50px;
+	
+}
+
+.label_color{
+	
+	color:#262626!important;
+}
+
+.container-fluid,.col-md-7,.row {
+	height:100%;
+}
+
+#login_background{
+	 background: url('../image/login_background.svg');
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center;
+      width: 100%;
+}

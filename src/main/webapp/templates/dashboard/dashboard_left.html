@@ -1,0 +1,57 @@
+	<!-- start of To do list & Notes Tabs -->
+	<ul class="saleken nav nav-tabs f-16  pb-0 pl-20 pt-30" id="myTab" role="tablist" style="background: #f9f9f9">
+		<li class="nav-item"><a class="nav-link active border-istar-left-0 " id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">To - Do List</a></li>
+		<li class="nav-item "><a class="nav-link border-istar-left-0 " id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Notes</a></li>
+	</ul>
+	<div class="tab-content " id="myTabContent" style="background: #f9f9f9">
+		<!-- start of To-do list tab content -->
+		<div class="tab-pane fade show active " id="home" role="tabpanel" aria-labelledby="home-tab">
+			<!-- Calendar container -->
+			<div class="w-100 px-2 d-flex justify-content-center">
+				<div id="datepicker" class="d-flex justify-content-center"></div>
+			</div>
+			<hr class="p-0 m-0">
+			<div class="task-item-container bg-white  pl-20 pt-20 pr-20 pb-40">
+				<div class="d-flex flex-row align-items-center  istar-dropdown pb-10 to_do_list">
+					<div class="bblack f-18 fw-500 pb-5">To-Do List</div>
+					<div class="istar-dropdown-task border-0 pb-5">
+						<button class="btn rounded-circle bg-white  hw-30 d-flex justify-content-center align-items-center ml-20 mr-10 theme_color todo-btn" id="todolist" data-toggle="dropdown" data-display="static" aria-haspopup="true" aria-expanded="false" style="border: 1px solid #eeeeee">
+							<i class="fal fa-plus "></i>
+						</button>
+						<div class="dropdown-menu istar-dropdown-task-menu  dropdown-menu-right dropdown-menu-lg-right" style="min-width: 150px !important; max-width: 150px !important;" aria-labelledby="todolist">
+							<button class="dropdown-item  f-14 fw-500" type="button" id="create_event" onclick="scheduleEvent()">Create an Event</button>
+							<button class="dropdown-item  f-14 fw-500" type="button" id="schedule_task" onclick="scheduleTask()">Schedule Task</button>
+						</div>
+					</div>
+				</div>
+				<!-- start of no-data for todo list -->
+				<div class="no-event">
+					<div class="w-100 mt-4 pt-4 text-center">
+						<img src="<%=baseURL%>assets/image/08.svg" alt="no-event-data" class="mr-2 mb-3">
+					</div>
+					<div class="fw-500 f-16 greyish-brown mb-2 text-center">Track your tasks</div>
+					<div class="fw-500 f-12 brownish-grey  mx-4 px-4 text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+				</div>
+				<!-- end of no-data for todo list -->
+				<!-- Start of creation to do items card -->
+				<div class="to_do_items"></div>
+				<!-- End of creation to do items card -->
+			</div>
+		</div>
+		<!-- End of To-do list tab content -->
+		<!-- Start of Notes tab content -->
+		<div class="tab-pane fade bg-white" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+			<div id="summernote"></div>
+			<!-- start of no-data for notes list -->
+			<div class="no-notes text-center cursor-pointer" onclick="opennotes()">
+				<div class="w-100 mt-4 pt-4">
+					<img src="<%=baseURL%>assets/image/make_notes.svg" alt="no-notes" class="mr-2 mb-4">
+				</div>
+				<div class="fw-500 f-16 greyish-brown mt-2 mb-2">Keep your notes</div>
+				<div class="fw-500 f-12 brownish-grey  mx-4 px-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+			</div>
+			<!-- end of no-data for notes list -->
+		</div>
+		<!-- End of Notes tab content -->
+	</div>
+	<!-- End of To do list & Notes Tabs -->

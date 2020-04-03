@@ -1,0 +1,96 @@
+.report_pipeline{
+	height: 20px; 
+	background-color: white;
+}
+
+.card-shadow-bottom{
+	box-shadow: 0 11px 14px -9px #dddddd;
+}
+
+.line-style{
+    position: absolute;
+    width: 70%;
+    height: 1px;
+    border-top: 2px dotted #eeeeee;
+    top: 30px;
+    left: 70px;
+}
+
+.hw-10{
+	height:10px; 
+	width: 10px;
+}
+
+.progress-box{
+	height: 60px;  
+	border: solid 1px #9fa7ff;
+}
+
+.purple{
+	color: #454d9f;
+}
+.minh-700{
+	min-height:700px
+}
+.minh-500{
+	min-height:500px
+}
+.shadow-right{
+	box-shadow: 0 8px 30px 0 rgba(0, 0, 0, 0.05);
+}
+.width-100{
+	width: 100px;
+}
+.report-signal-bg{
+	    border-color: #454d9f;
+    border-radius: 6px !important;
+    color: #454d9f;
+    background: repeating-linear-gradient(-55deg, #9ca1d4, #9ca1d4 10px, #c0d5fb 10px, #c0d5fb 11px);
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    height: 25px;
+    line-height: 10px;
+}
+.mt-25{
+	margin-top: 25px;
+}
+.mb-25{
+	margin-bottom: 25px;
+}
+.mt-20{
+ 	margin-top: 20px;
+}
+
+/* start of arrow right */
+
+.arrow-right {
+	border: none !important;
+}
+.arrow-right:after, .arrow-right:before {
+	right: 100%;
+    top: 13%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.arrow-right:after {
+border-color: rgba(136, 183, 213, 0);
+    border-right-color: #fff;
+    border-width: 10px;
+    margin-top: -34px;
+}
+.arrow-right:before {
+	border-color: rgba(194, 225, 245, 0);
+    border-right-color: #ddd;
+    border-width: 12px;
+    margin-top: -36px;
+
+}
+
+
+
+/* end of arrow right */

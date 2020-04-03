@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="25" viewBox="0 0 78 25">
+    <defs>
+        <style>
+            .cls-1{fill:#dff6f8;stroke:#a6e3e9}.cls-2,.cls-7{fill:none}.cls-3{fill:#bfdfff}.cls-4{fill:#3c3991;font-size:12px;font-family:Roboto-Bold,Roboto;font-weight:700}.cls-5{clip-path:url(#clip-path)}.cls-6{opacity:.1;clip-path:url(#clip-path-2)}.cls-7{stroke:#3e3b8e}.cls-8,.cls-9{stroke:none}.cls-9{fill:#9fcbff}
+        </style>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_1237" width="78" height="25" class="cls-1" data-name="Rectangle 1237" rx="4" transform="translate(91 570)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path d="M0 0h158.752v27.99H0z" class="cls-2"/>
+        </clipPath>
+    </defs>
+    <g id="Group_5665" data-name="Group 5665" transform="translate(-91 -456)">
+        <g id="Path_2944" class="cls-3" data-name="Path 2944">
+            <path d="M73.429 24.5H4.57C2.326 24.5.5 22.93.5 21V4C.5 2.07 2.326.5 4.571.5H73.43C75.674.5 77.5 2.07 77.5 4v17c0 1.93-1.826 3.5-4.071 3.5z" class="cls-8" transform="translate(91 456)"/>
+            <path d="M4.571 1C2.602 1 1 2.346 1 4v17c0 1.654 1.602 3 3.571 3H73.43C75.398 24 77 22.654 77 21V4c0-1.654-1.602-3-3.571-3H4.57m0-1H73.43C75.953 0 78 1.79 78 4v17c0 2.21-2.047 4-4.571 4H4.57C2.047 25 0 23.21 0 21V4c0-2.21 2.047-4 4.571-4z" class="cls-9" transform="translate(91 456)"/>
+        </g>
+        <g id="Group_5369" data-name="Group 5369" transform="translate(107 460)">
+            <text id="Next_Step" class="cls-4" data-name="Next Step" transform="translate(-3 13)">
+                <tspan x="0" y="0">Next Step</tspan>
+            </text>
+        </g>
+        <g id="Mask_Group_21" class="cls-5" data-name="Mask Group 21" transform="translate(0 -114)">
+            <g id="Repeat_Grid_56" class="cls-6" data-name="Repeat Grid 56">
+                <g transform="translate(22.679 545.727)">
+                    <path id="Line_1205" d="M0 0v94" class="cls-7" data-name="Line 1205" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(32.679 545.727)">
+                    <path id="Line_1206" d="M0 0v94" class="cls-7" data-name="Line 1206" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(42.679 545.727)">
+                    <path id="Line_1207" d="M0 0v94" class="cls-7" data-name="Line 1207" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(52.679 545.727)">
+                    <path id="Line_1208" d="M0 0v94" class="cls-7" data-name="Line 1208" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(62.679 545.727)">
+                    <path id="Line_1209" d="M0 0v94" class="cls-7" data-name="Line 1209" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(72.679 545.727)">
+                    <path id="Line_1210" d="M0 0v94" class="cls-7" data-name="Line 1210" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(82.679 545.727)">
+                    <path id="Line_1211" d="M0 0v94" class="cls-7" data-name="Line 1211" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(92.679 545.727)">
+                    <path id="Line_1212" d="M0 0v94" class="cls-7" data-name="Line 1212" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(102.679 545.727)">
+                    <path id="Line_1213" d="M0 0v94" class="cls-7" data-name="Line 1213" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(112.679 545.727)">
+                    <path id="Line_1214" d="M0 0v94" class="cls-7" data-name="Line 1214" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(122.679 545.727)">
+                    <path id="Line_1215" d="M0 0v94" class="cls-7" data-name="Line 1215" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(132.679 545.727)">
+                    <path id="Line_1216" d="M0 0v94" class="cls-7" data-name="Line 1216" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(142.679 545.727)">
+                    <path id="Line_1217" d="M0 0v94" class="cls-7" data-name="Line 1217" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(152.679 545.727)">
+                    <path id="Line_1218" d="M0 0v94" class="cls-7" data-name="Line 1218" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(162.679 545.727)">
+                    <path id="Line_1219" d="M0 0v94" class="cls-7" data-name="Line 1219" transform="rotate(45 9.282 101.845)"/>
+                </g>
+                <g transform="translate(172.679 545.727)">
+                    <path id="Line_1220" d="M0 0v94" class="cls-7" data-name="Line 1220" transform="rotate(45 9.282 101.845)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

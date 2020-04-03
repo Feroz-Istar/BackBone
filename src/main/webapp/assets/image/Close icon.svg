@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Close_icon" width="33" height="33" data-name="Close icon" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#e84c4c}.cls-3{fill:#fff;stroke:#fff;stroke-width:.5px}
+        </style>
+    </defs>
+    <path id="Rectangle_936" d="M0 0h24v24H0z" class="cls-1" data-name="Rectangle 936"/>
+    <path id="Path_652" d="M2288.971 3125a7.97 7.97 0 1 0 7.97 7.969 7.979 7.979 0 0 0-7.97-7.969z" class="cls-2" data-name="Path 652" transform="translate(-2277.001 -3121)"/>
+    <path id="Path_3222" d="M2528.881 1152.143a.522.522 0 0 1-.739.739l-2.126-2.126-2.125 2.126a.522.522 0 0 1-.739-.739l2.126-2.126-2.126-2.126a.522.522 0 1 1 .739-.739l2.125 2.126 2.126-2.126a.522.522 0 1 1 .739.739l-2.126 2.126z" class="cls-3" data-name="Path 3222" transform="translate(-2514.001 -1138.001)"/>
+</svg>

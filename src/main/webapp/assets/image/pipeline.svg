@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#999}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h24v24H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Pipeline_1" class="cls-2" data-name="Pipeline – 1">
+        <g id="Group_1076" data-name="Group 1076" transform="translate(2.879 3)">
+            <path id="Path_430" d="M3.817 4.983H.876a.842.842 0 0 1-.84-.84V1.2a.842.842 0 0 1 .84-.84h2.941a.842.842 0 0 1 .84.84v2.943a.842.842 0 0 1-.84.84zM1.3 3.723h2.1v-2.1H1.3z" class="cls-3" data-name="Path 430" transform="translate(-.036 -.362)"/>
+            <path id="Path_431" d="M3.817 13.266H.876a.841.841 0 0 1-.84-.84V9.485a.842.842 0 0 1 .84-.84h2.941a.842.842 0 0 1 .84.84v2.941a.841.841 0 0 1-.84.84zM1.3 12.006h2.1v-2.1H1.3z" class="cls-3" data-name="Path 431" transform="translate(-.036 -2.171)"/>
+            <path id="Path_432" d="M3.817 21.549H.876a.841.841 0 0 1-.84-.84v-2.941a.841.841 0 0 1 .84-.84h2.941a.841.841 0 0 1 .84.84v2.941a.841.841 0 0 1-.84.84zM1.3 20.289h2.1v-2.1H1.3z" class="cls-3" data-name="Path 432" transform="translate(-.036 -3.981)"/>
+            <path id="Path_433" d="M18.583 4.744h-9.25c-.348 0-.63-.435-.63-.971s.282-.971.63-.971h9.249c.348 0 .63.435.63.971s-.282.971-.629.971z" class="cls-3" data-name="Path 433" transform="translate(-.578 -1.507)"/>
+            <path id="Path_434" d="M18.4 13.027H9.153c-.348 0-.629-.435-.629-.971s.282-.971.629-.971H18.4c.348 0 .63.435.63.971s-.279.971-.63.971z" class="cls-3" data-name="Path 434" transform="translate(-.522 -3.317)"/>
+            <path id="Path_435" d="M18.583 21.31h-9.25c-.348 0-.63-.435-.63-.971s.282-.971.63-.971h9.249c.348 0 .63.435.63.971s-.282.971-.629.971z" class="cls-3" data-name="Path 435" transform="translate(-.578 -5.126)"/>
+        </g>
+        <path id="Rectangle_936" d="M0 0h24v24H0z" class="cls-1" data-name="Rectangle 936"/>
+    </g>
+</svg>

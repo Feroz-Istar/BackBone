@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#999;stroke:rgba(0,0,0,0)}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h24v24H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Component" class="cls-2">
+        <path id="Rectangle_936" d="M0 0h24v24H0z" class="cls-1" data-name="Rectangle 936"/>
+        <path id="Union_18" d="M-2196 1378.784a8.794 8.794 0 0 1 8.784-8.784 8.794 8.794 0 0 1 8.784 8.784 8.794 8.794 0 0 1-8.784 8.785 8.794 8.794 0 0 1-8.784-8.785zm1.527 0a7.265 7.265 0 0 0 7.257 7.257 7.264 7.264 0 0 0 7.257-7.257 7.264 7.264 0 0 0-7.257-7.256 7.264 7.264 0 0 0-7.257 7.256zm5.325 3.371l-3.362-3.161a.962.962 0 0 1-.072-1.357.961.961 0 0 1 1.358-.072l2.648 2.519 4.851-4.728a.961.961 0 0 1 1.357-.07.961.961 0 0 1 .07 1.357l-5.494 5.44a.956.956 0 0 1-.663.316h-.05a.958.958 0 0 1-.642-.244z" class="cls-3" data-name="Union 18" transform="translate(2199 -1367)"/>
+    </g>
+</svg>

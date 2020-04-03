@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Left_alignment_icon" width="24" height="24" data-name="Left alignment icon" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#999}
+        </style>
+    </defs>
+    <path id="Rectangle_936" d="M0 0h24v24H0z" class="cls-1" data-name="Rectangle 936"/>
+    <path id="XMLID_1034_" d="M466.662 1565.754h-15.785a.877.877 0 0 1 0-1.754h15.785a.877.877 0 0 1 0 1.754zm-5.834 3.81a.877.877 0 0 0-.877-.877h-9.074a.877.877 0 0 0 0 1.754h9.074a.877.877 0 0 0 .877-.877zm2.677 4.672a.877.877 0 0 0-.877-.877h-11.751a.877.877 0 1 0 0 1.753h11.751a.876.876 0 0 0 .877-.876zm3.247 4.672a.877.877 0 0 0-.877-.877h-14.939a.877.877 0 0 0 0 1.754h14.939a.877.877 0 0 0 .877-.877z" class="cls-2" transform="translate(-447 -1560)"/>
+</svg>

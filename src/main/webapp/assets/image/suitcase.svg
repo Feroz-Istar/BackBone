@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#999}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h24v24H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="suitcase_3" class="cls-2" data-name="suitcase – 3">
+        <path id="Path_177" d="M1856.066 4466.556a.8.8 0 0 0-.594-.2h-4.408v-2.519a.875.875 0 0 0-.88-.839h-7.055a.876.876 0 0 0-.881.839v2.519h-4.408a.762.762 0 0 0-.84.743v11.851a.84.84 0 0 0 .84.839h17.627a.839.839 0 0 0 .84-.839l.005-11.827a.785.785 0 0 0-.246-.567zm-12.139-1.877h5.458v1.68h-5.458zm10.705 3.359v4.408h-5.875v-.3c0-.347-.336-.535-.684-.535h-2.829c-.348 0-.685.188-.685.535v.3h-5.877v-4.408zm-7.137 4.828v.419h-1.679v-.419zm-8.816 5.247v-4.408h5.877v.207a.681.681 0 0 0 .685.632h2.829a.681.681 0 0 0 .684-.632v-.207h5.875v4.408z" class="cls-3" data-name="Path 177" transform="translate(-1835 -4459)"/>
+        <path id="Rectangle_936" d="M0 0h24v24H0z" class="cls-1" data-name="Rectangle 936"/>
+    </g>
+</svg>

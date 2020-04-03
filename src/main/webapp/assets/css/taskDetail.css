@@ -1,0 +1,118 @@
+.grey-white-bg{
+	background: #fafafa;
+}
+
+
+
+
+
+
+
+
+
+/*
+@media ( max-width : 600px) {
+	.search-style{
+		height:30px !important;
+		width: 120px;
+		border-radius: 0;
+}
+	
+} */
+
+
+
+
+
+.custom-taskborder{
+	border: 1px solid #cccccc;
+	border-radius: 0;
+}
+
+.custom-taskbutton{
+	height: 30px;
+	width:30px;
+}
+
+.signal-analytical{
+	color: #767df7;
+}
+
+.btn-join{
+	height:30px;
+	width: 100px;
+	border-radius: 0;
+	background: #ed4d67;
+	color: #fff;
+}
+
+.btn-listen{
+	height:30px;
+	width: 100px;
+	border-radius: 0;
+	background: #fff;
+	color: #000;
+	border: 1px solid #000;
+}
+
+.time-img-size{
+	width: 84.1px;
+ 	 height: 78.2px;
+}
+.dotted-bottom-separation{
+	border-bottom: 1px dotted #cccccc
+}
+
+
+/* start of horizontal tab */
+
+nav-leadtabs {
+	margin-top: 2rem;
+}
+.nav-leadtabs {
+}
+li
+:not
+(
+:last-child
+)
+{		
+}
+.nav-tasktabs a {
+	position: relative;
+	top: 8px;
+	background-color: #f9f9f9;
+	color: #999999;
+	opacity: 0.5;
+	transition: all 0.1s ease-in-out;
+	font-weight: normal;
+	border-top: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+	border-bottom-color: #fff;
+	border-left: 1px solid  #dddddd;
+}
+
+.nav-tasktabs a.active, .nav-tasktabs a:hover {
+	opacity: 1;
+	top: 0;
+	font-weight: bold !important;
+	background-color: #fff;
+	color: #444444 !important;
+
+	
+}
+
+.taskabs-content {
+	  border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    padding: 10px;
+	position: relative;
+	z-index: 2;
+	padding: 25px;
+	border-radius: 0 4px 4px 4px;
+	background: white;
+}
+
+/* end of horizontal tab */
+
+

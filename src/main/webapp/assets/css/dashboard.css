@@ -1,0 +1,94 @@
+
+@media (min-width: 600px) {
+	.eventmodalsize{
+		width:650px;
+	}
+	
+}
+.search_modal_height{
+	height:30px;
+	}
+.card-separation{
+border-left: 2px dashed #d4d4d4;
+}
+
+.signalimgsize{
+height: 130px;
+width: 130px;
+}
+
+.ml_10{
+	margin-left:-11px;
+}
+.imgsize{
+	height:30px;
+	width:30px;
+}
+.checksize{
+		height:18px;
+	width:18px;
+}
+
+.h-29{
+	height:29px;
+	width:29px;
+}
+
+
+.separation-bottom{
+	border-bottom: 1px solid #cccccc;	
+}
+
+#datepicker .datepicker, .table-condensed {
+	background-color: #f9f9f9;
+}
+
+
+#datepicker .datepicker {
+	font-size: 12px;
+} 
+
+
+
+#datepicker .table-condensed>thead>tr>th.dow {
+	color: #999999 !important;
+	font-weight: bold;
+		font-size: 12px;
+	
+}
+#datepicker .table-condensed>thead>tr>th.datepicker-switch,#datepicker .table-condensed>thead>tr>th.prev,#datepicker .table-condensed>thead>tr>th.next {
+	color: #999999 !important;
+	  font-size: 14px !important;
+	font-weight: 400 !important;
+	}
+#datepicker .table-condensed tbody tr td {
+  font-size: 12px !important;
+  
+}
+#datepicker .activeClass {
+	background: #dddddd;
+	font-weight: 600;
+}
+
+#datepicker .table-condensed {
+	border-collapse: separate;
+	border-spacing: 10px 8px;
+}
+
+/* .custom_dash_padding{
+	padding: 9px 29px;
+} */
+.istar_badge{
+	width: 80px; height: 25px; border-radius: 14px; line-height: 20px; background: #e84c4c !important;
+}
+
+
+.todo-btn:hover{
+	background-color: #ed4d67 !important;
+	color: #ffffff !important;
+}
+
+.toggle-liked{
+    border: 1px solid #ed4d67 !important;
+    z-index: 1 !important;
+}

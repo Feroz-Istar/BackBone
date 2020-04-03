@@ -1,0 +1,53 @@
+
+<div class="card  rounded-0 shadow">
+	<div class="card-body ongoingtaskcard cursor-pointer p-0 pl-30 pr-30 pb-30 pt-10">
+		<%
+			for (var j=0; j < headings.length;j++) {
+		%>
+		<div class=" font-weight-bold f-18 black pb-20 pt-20"><%=headings[j]%></div>
+
+		<div class="row m-0 theme_dashed_border_bottom  <%=headings[j]%> headingrow ">
+			<%
+				for (var i = 0; i < 5; i++) {
+					var ispadding="pl-20 pr-20";
+					
+					if(i==0){
+						ispadding="pr-20";	
+					}
+					if(i==4){
+						ispadding="pl-20";
+					}
+			%>
+			<div
+				class="col p-0 pb-20 ">
+						<div class="d-flex flex-column border-right-dashed-separation mb-10 <%=ispadding %>">
+						<img alt="" src="<%=baseURL%>assets/image/layer.png"
+							class="hw-60  rounded-circle align-self-center"
+							style="position: relative; top: 5px; z-index: 2; left: 0px;">
+						<div class="btn-group " role="group" aria-label="Basic example">
+							<button type="button"
+								data-toggled="false" class="btn btn-secondary d-flex justify-content-center bg-white p-0  removefocus d-flex align-items-center theme_solid_border" onclick="toggleLikeDashboard(this)">
+								<img alt="Heart" style="width: 21px; height: 21px;"
+									src="<%=baseURL%>assets/image/heart.svg">
+							</button>
+							<button type="button"
+								data-toggled="false" onclick="toggleMessageDashboard(this)"class="btn btn-secondary d-flex justify-content-center btn btn-secondary theme_solid_border bg-white p-0  removefocus d-flex align-items-center ">
+								<img alt="Heart" style="width: 21px; height: 21px;"
+									src="<%=baseURL%>assets/image/message.svg">
+							</button>
+						</div>
+						</div>
+						<div class="f-14 greyish-brown text-center ">Stanley
+							Howard</div>
+
+			</div>
+	<%
+				}
+			%>
+		</div>
+		<%
+			}
+		%>
+
+	</div>
+</div>

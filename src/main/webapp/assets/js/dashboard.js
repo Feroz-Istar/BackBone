@@ -63,7 +63,7 @@ $(document).ready(function(){
 		}
 	})
 
-	var dashboardLeft = new DashboardLeft({title:'sssssss',baseURL:contextPath})
+	var dashboardLeft = new DashboardLeft({baseURL:contextPath})
 
 
 	var dashboardLeftView = new DashboardLeftView({el:'.left_container',model:dashboardLeft})

@@ -68,7 +68,7 @@
 		<!-- Start of row in main dashboard. This row divided into three major UI column -->
 		<div class="row ">
 			<!-- Start of left container/first column of dashboard  -->
-				<div class="col-md-3 pr-0 left_container pl-0 bg-white"></div>
+			<div class="col-md-3 pr-0 left_container pl-0 bg-white"></div>
 
 			<!-- End of left container/first column of dashboard  -->
 			<!-- start of center container/second column of dashboard  -->
@@ -81,7 +81,7 @@
 				<div class="pipeline-card">
 					<div class="card shadow mb-2 rounded-0" style="min-height: 322px;">
 						<div class="card-body p-0">
-							<div class="salesken_caurosel position-relative overflow-hidden">
+							<div class="salesken_caurosel pipeline-card-parent position-relative overflow-hidden">
 
 								<button type="button" class="istar-btn-icon  previous p-0" id="pipeline-left" onclick="pipeline_prev(this)">
 									<i class="fal fa-chevron-left"></i>
@@ -191,14 +191,16 @@
 
 
 	<script src="<%=baseURL%>assets/js/jquery-3.4.1.min.js"></script>
-		<script src="<%=baseURL%>assets/js/popper.min.js"></script>
-	
+	<script src="<%=baseURL%>assets/js/popper.min.js"></script>
+
 	<script src="<%=baseURL%>assets/js/bootstrap.min.js"></script>
-<script src="<%=baseURL%>assets/js/bootstrap-datepicker.min.js"></script>
+	<script src="<%=baseURL%>assets/js/bootstrap-datepicker.min.js"></script>
 	<script src="<%=baseURL%>assets/js/dashboard.js"></script>
+	<script src="<%=baseURL%>assets/js/dashboard_center.js"></script>
+
 	<script src="<%=baseURL%>assets/js/underscore-min.js"></script>
 	<script src="<%=baseURL%>assets/js/summernote-bs4.js"></script>
-	
+
 	<script src="<%=baseURL%>assets/js/backbone.js"></script>
 
 </body>
